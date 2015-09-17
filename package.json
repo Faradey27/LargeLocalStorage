@@ -1,0 +1,35 @@
+{
+  "name": "LargeLocalStorage",
+  "version": "0.0.1",
+  "description": "localStorage without size limits",
+  "homepage": "https://github.com/Faradey27/LargeLocalStorage",
+  "main": "largeLocalStorage.js",
+  "keywords": [
+    "localStorage",
+    "largeLocalStorage",
+    "large local storage",
+    "large storage",
+    "webstorage",
+    "without limit"
+  ],
+  "author": {
+    "name": "Andrii Tiertyshnyi",
+    "email": "andrii.tiertyshnyi@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Faradey27/LargeLocalStorage"
+  },
+  "bugs": {
+    "url": "https://github.com/Faradey27/LargeLocalStorage/issues"
+  },
+  "_id": "LargeLocalStorage@0.0.1",
+  "scripts": {},
+  "_from": "LargeLocalStorage@*",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "faradey27",
+    "email": "andrii.tiertyshnyi@gmail.com"
+  }
+}

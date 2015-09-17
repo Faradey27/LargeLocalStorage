@@ -1,6 +1,7 @@
 # LargeLocalStorage
+
 Webstorage without size limits
-===
+
 
 Usage
 ----
@@ -65,6 +66,18 @@ API
   * setItem(key, value)
   * removeItem(key)
   * clear()
+
+Browser Support
+---------------
+
+All current browsers are fully supported.
+* Firefox 4+
+* Chrome 11+
+* Internet Explorer 10+
+* Opera 15+
+* Safari 8+
+
+***Older versions of browsers storage will be limited by 5 mb***
 
 Notes
 ---
